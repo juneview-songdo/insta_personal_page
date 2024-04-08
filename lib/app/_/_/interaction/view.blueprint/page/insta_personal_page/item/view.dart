@@ -28,7 +28,7 @@ class ItemViewState extends State<ItemView> with StateMother {
                 CircleAvatar(
                   radius: 20,
                   backgroundImage:
-                      AssetImage('assets/view/insta_personal_page/jang.jpg'),
+                      AssetImage('assets/view/insta_personal_page/winter.jpg'),
                 ),
                 Gap(10),
                 Column(
@@ -70,7 +70,7 @@ class ItemViewState extends State<ItemView> with StateMother {
                 decoration: BoxDecoration(
                   borderRadius: BorderRadius.circular(10),
                   image: DecorationImage(
-                    image: AssetImage('assets/view/insta_personal_page/jang.jpg'),
+                    image: AssetImage('assets/view/insta_personal_page/winter.jpg'),
                     fit: BoxFit.cover,
                   ),
                 ),

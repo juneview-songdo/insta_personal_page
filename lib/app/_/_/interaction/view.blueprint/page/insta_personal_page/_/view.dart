@@ -62,7 +62,7 @@ class NewViewState extends State<NewView> with StateMother {
                                 CircleAvatar(
                                   radius: 40,
                                   backgroundImage:
-                                  AssetImage("assets/view/insta_personal_page/jang.jpg"),
+                                  AssetImage("assets/view/insta_personal_page/winter.jpg"),
                                 ),
                                 Gap(20),
                                 // follwer, following, post

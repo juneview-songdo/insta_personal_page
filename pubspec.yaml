@@ -1,9 +1,9 @@
 name: insta_personal_page
 description: "insta style personal page by june"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/melodysdreamj/june_view_store_site
 
-version: 1.0.0+1
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
