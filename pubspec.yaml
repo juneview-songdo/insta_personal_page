@@ -4,7 +4,7 @@ description: "insta style personal page by june"
 homepage: https://view.juneflow.org
 repository: https://github.com/juneview-songdo/insta_personal_page
 
-version: 1.0.3
+version: 1.0.5
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
